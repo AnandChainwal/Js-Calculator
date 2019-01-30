@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+
+body{
+    background-color:#9E1030;
+}
+form{
+
+   background-color: #282828;
+    height:400px; 
+  width:350px;
+  
+  margin:auto ;
+  border-radius:4px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+#display_screen{
+  margin:10px;
+      background-color:#BCBC95;
+      width:320px;
+      height:50px;
+ border-radius:4px;     
+  font-size:25px;
+  text-align:right;
+  font-family: 'Roboto', sans-serif;
+}
+
+.number{
+    width:60px;
+    height:50px;
+  margin:10px;
+    background-color:#FFFFFF;
+  border-radius:4px;
+    font-size:20px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.operator{
+    width:60px;
+    height:50px;
+  margin:10px;
+  background-color:#C5EAEB;
+    font-size:20px;
+  border-radius:4px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.destroy{
+    width:60px;
+    height:50px;
+  margin:10px;
+  background-color:#FF99A2;
+    font-size:20px;
+  border-radius:6px;
+  font-family: 'Roboto', sans-serif;
+}
